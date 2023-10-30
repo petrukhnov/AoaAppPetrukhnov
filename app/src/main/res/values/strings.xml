@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AOA Template by Konstantin Petrukhnov</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="state_disconnected">State: disconnected</string>
+    <string name="state_connected">State: connected</string>
+    <string name="state_failed">State: failed to connect</string>
+</resources>
